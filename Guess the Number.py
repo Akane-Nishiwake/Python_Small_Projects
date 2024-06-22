@@ -1,6 +1,7 @@
 # Write your code here :-)
 import random  # importing the related module
-
+#whitespace matters as indenting puts it in scope 
+# : is needed to indicate start of scope
 secretNumber = random.randint(1, 20)
 print("I am thinking of a number between 1 and 20.")
 for guessessTaken in range(1, 7):  # users get 7 guesses
