@@ -1,4 +1,6 @@
-# Write your code here :-)
+
+#This is for later still dont have the skills yet
+
 # Conway's Game of Life
 # The 4 Rules of a cell
 # Any live cell with 0 or 1 live neighbors becomes dead, because of underpopulation
