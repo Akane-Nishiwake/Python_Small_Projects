@@ -16,6 +16,6 @@ try:
     print(spam2(2))
     print(spam2(12))
     print(spam2(0))
-    print(spame2(1))
+    print(spam2(1))
 except ZeroDivisionError:
     print('Error: Invalid Argument')
